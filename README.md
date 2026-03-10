@@ -1,4 +1,4 @@
-m<!DOCTYPE html>
+ m<!DOCTYPE html>
 <html>
 <head>
 <title>My AI Solver</title>
